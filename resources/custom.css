@@ -1,1 +1,43 @@
+ @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+ @import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
+      
 
+.center {
+  text-align: center;
+  padding-left: 0px;
+  padding-right: 0px;
+  position: absolute; left: 50%; top: 50%; 
+  transform: translate(-50%, -50%);
+  }
+   
+  .center h1 {
+  font-family: NanumSquare;
+   skew(-0.01deg); 
+   }
+   
+ .center p {
+  font-family:  NanumSquare;
+  skew(-0.01deg); 
+   }
+   
+  span {
+ font-family: inter;
+   skew(-0.01deg); 
+   }
+   
+  .inter {
+   font-family: inter;
+   skew(-0.01deg); 
+   }
+      
+.footer {
+ text-align: center;
+ position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+   }
+   
+   .footer p {
+    font-family: Inter;
+   }
