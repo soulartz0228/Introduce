@@ -12,12 +12,14 @@
    
   .center h1 {
    font-family: NanumSquare;
+   font-size: 2.625rem;
    transform: skew(-0.01deg);
    }
    
   .center p {
   font-family:  NanumSquare;
   transform: skew(-0.01deg);
+   font-size:  1.063rem;
    }
    
   span {
@@ -45,4 +47,5 @@
    
    .footer p {
     font-family: Inter;
+    font-size:  1.063rem;
    }
