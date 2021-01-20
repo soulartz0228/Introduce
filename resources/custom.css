@@ -2,7 +2,7 @@
  @import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
 
 
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 480px) {
   body {
     background-color: lightgreen;
   }
