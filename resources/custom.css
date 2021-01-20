@@ -3,9 +3,6 @@
 
 
 @media screen and (max-width: 482px) {
- .center {
-  position: absolute; left: 100%; top: 100%; 
- }
   
   .center h1 {
     font-size: 25px;
@@ -16,12 +13,17 @@
  }
 }
 
+@media screen and (max-width: 700px) {
+ 
+ .center {
+  position: absolute; left: 50%; top: 50%; 
+  transform: translate(-50%, -50%);
+ }
+
 .center {
   text-align: center;
   padding-left: 0px;
   padding-right: 0px;
-  position: absolute; left: 50%; top: 50%; 
-  transform: translate(-50%, -50%);
   }
    
   .center h1 {
