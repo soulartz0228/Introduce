@@ -11,28 +11,28 @@
   }
    
   .center h1 {
-  font-family: NanumSquare;
-   skew(-0.01deg); 
+   font-family: NanumSquare;
+   transform: skew(-0.01deg);
    }
    
   .center p {
   font-family:  NanumSquare;
-  skew(-0.01deg); 
+  transform: skew(-0.01deg);
    }
    
   span {
  font-family: inter;
-   skew(-0.01deg); 
+   transform: skew(-0.01deg);
    }
    
   .inter {
    font-family: inter;
-   skew(-0.01deg); 
+   transform: skew(-0.01deg);
    }
 
   .nanumsquare {
   font-family:  NanumSquare;
-  skew(-0.01deg); 
+  transform: skew(-0.01deg);
    }
       
 .footer {
