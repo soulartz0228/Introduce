@@ -4,8 +4,12 @@
 
 @media screen and (max-width: 482px) {
   .center h1 {
-    font-size: 30px;
+    font-size: 35px;
   }
+ 
+ .center p {
+  font-size: 13px;
+ }
 }
 
 .center {
