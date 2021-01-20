@@ -12,22 +12,27 @@
    
   .center h1 {
   font-family: NanumSquare;
-   skew(-0.01deg); 
+   skew(-0.001deg); 
    }
    
- .center p {
+  .center p {
   font-family:  NanumSquare;
-  skew(-0.01deg); 
+  skew(-0.001deg); 
    }
    
   span {
  font-family: inter;
-   skew(-0.01deg); 
+   skew(-0.001deg); 
    }
    
   .inter {
    font-family: inter;
-   skew(-0.01deg); 
+   skew(-0.001deg); 
+   }
+
+  .nanumsquare {
+  font-family:  NanumSquare;
+  skew(-0.001deg); 
    }
       
 .footer {
