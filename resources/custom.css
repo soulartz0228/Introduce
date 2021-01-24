@@ -4,19 +4,19 @@
 
 @media screen and (max-width: 795px) {
 html {
- font-size: 14px;
+ font-size: 15px;
  }
 }
 
 @media screen and (max-width: 500px) {
 html {
- font-size: 13px;
+ font-size: 14px;
  }
 }
 
 @media screen and (max-width: 400px) {
 html {
- font-size: 12px;
+ font-size: 13px;
  }
 }
 
